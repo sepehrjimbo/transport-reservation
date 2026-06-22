@@ -1,5 +1,4 @@
 <?php
-
 namespace App\Http\Controllers\Api;
 
 use App\Http\Controllers\Controller;
@@ -7,9 +6,13 @@ use App\Models\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
-
 class AuthController extends Controller
 {
+    /**
+     * Register user
+     *
+     * @group Authentication
+     */
     public function register(Request $request)
     {
         $validator = validator::make($request->all(),[
@@ -41,7 +44,11 @@ class AuthController extends Controller
             ],
         ], 201);
     }
-
+    /**
+     * Login user
+     *
+     * @group Authentication
+     */
     public function login(Request $request)
     {
         $validator = Validator::make($request->all(), [

@@ -8,6 +8,15 @@ use Illuminate\Support\Facades\DB;
 
 class FlightController extends Controller
 {
+    /**
+     * Search flights
+     *
+     * @group Flights
+     *
+     * @queryParam origin string required Example: DXB
+     * @queryParam destination string required Example: IST
+     * @queryParam date string required Example: 2026-06-21
+     */
     public function search(Request $request)
     {
         $origin = $request->origin;
@@ -37,6 +46,13 @@ class FlightController extends Controller
 
         return response()->json($flights);
     }
+    /**
+     * Get flight detail
+     *
+     * @group Flights
+     *
+     * @urlParam id int required Example: 1
+     */
     public function show($id)
     {
         $flight = DB::table('flights')

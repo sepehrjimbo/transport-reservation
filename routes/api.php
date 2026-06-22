@@ -15,6 +15,9 @@ Route::middleware(['auth:api'])->group(function () {
     Route::get('flights/search', [FlightController::class, 'search']);
     Route::get('flights/{id}', [FlightController::class, 'show']);
 
+
+    Route::get('/transport/search', [TrainController::class, 'searchByIata']);
     Route::get('trains/{id}', [TrainController::class, 'show']);
+
 });
 
