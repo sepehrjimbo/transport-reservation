@@ -1,0 +1,107 @@
+{
+    "TR-101": {
+        "wagons": [
+            {"number": 1, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 2, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 3, "type": "economy", "capacity": 6, "price_multiplier": 0.7, "description": "اقتصادی ۶ صندلی"},
+            {"number": 4, "type": "business", "capacity": 2, "price_multiplier": 1.8, "description": "بیزینس ۲ نفره"}
+        ]
+    },
+    "TR-102": {
+        "wagons": [
+            {"number": 1, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 2, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 3, "type": "economy", "capacity": 6, "price_multiplier": 0.7, "description": "اقتصادی ۶ صندلی"},
+            {"number": 4, "type": "business", "capacity": 2, "price_multiplier": 1.8, "description": "بیزینس ۲ نفره"}
+        ]
+    },
+    "TR-202": {
+        "wagons": [
+            {"number": 1, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 2, "type": "economy", "capacity": 6, "price_multiplier": 0.7, "description": "اقتصادی ۶ صندلی"}
+        ]
+    },
+    "TR-203": {
+        "wagons": [
+            {"number": 1, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 2, "type": "economy", "capacity": 6, "price_multiplier": 0.7, "description": "اقتصادی ۶ صندلی"}
+        ]
+    },
+    "TR-305": {
+        "wagons": [
+            {"number": 1, "type": "economy", "capacity": 8, "price_multiplier": 0.8, "description": "اقتصادی ۸ صندلی"},
+            {"number": 2, "type": "economy", "capacity": 8, "price_multiplier": 0.8, "description": "اقتصادی ۸ صندلی"}
+        ]
+    },
+    "TR-306": {
+        "wagons": [
+            {"number": 1, "type": "economy", "capacity": 8, "price_multiplier": 0.8, "description": "اقتصادی ۸ صندلی"},
+            {"number": 2, "type": "economy", "capacity": 8, "price_multiplier": 0.8, "description": "اقتصادی ۸ صندلی"}
+        ]
+    },
+    "TR-401": {
+        "wagons": [
+            {"number": 1, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 2, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 3, "type": "economy", "capacity": 6, "price_multiplier": 0.7, "description": "اقتصادی ۶ صندلی"}
+        ]
+    },
+    "TR-402": {
+        "wagons": [
+            {"number": 1, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 2, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 3, "type": "economy", "capacity": 6, "price_multiplier": 0.7, "description": "اقتصادی ۶ صندلی"}
+        ]
+    },
+    "TR-501": {
+        "wagons": [
+            {"number": 1, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 2, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 3, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 4, "type": "economy", "capacity": 6, "price_multiplier": 0.7, "description": "اقتصادی ۶ صندلی"},
+            {"number": 5, "type": "business", "capacity": 2, "price_multiplier": 1.8, "description": "بیزینس ۲ نفره"}
+        ]
+    },
+    "TR-502": {
+        "wagons": [
+            {"number": 1, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 2, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 3, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 4, "type": "economy", "capacity": 6, "price_multiplier": 0.7, "description": "اقتصادی ۶ صندلی"},
+            {"number": 5, "type": "business", "capacity": 2, "price_multiplier": 1.8, "description": "بیزینس ۲ نفره"}
+        ]
+    },
+    "TR-601": {
+        "wagons": [
+            {"number": 1, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "Standard Coupe 4"},
+            {"number": 2, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "Standard Coupe 4"},
+            {"number": 3, "type": "economy", "capacity": 6, "price_multiplier": 0.7, "description": "Economy Class 6"}
+        ]
+    },
+    "TR-602": {
+        "wagons": [
+            {"number": 1, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "Standard Coupe 4"},
+            {"number": 2, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "Standard Coupe 4"},
+            {"number": 3, "type": "economy", "capacity": 6, "price_multiplier": 0.7, "description": "Economy Class 6"}
+        ]
+    },
+    "TR-701": {
+        "wagons": [
+            {"number": 1, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 2, "type": "economy", "capacity": 6, "price_multiplier": 0.7, "description": "اقتصادی ۶ صندلی"}
+        ]
+    },
+    "TR-702": {
+        "wagons": [
+            {"number": 1, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 2, "type": "economy", "capacity": 6, "price_multiplier": 0.7, "description": "اقتصادی ۶ صندلی"}
+        ]
+    },
+    "TR-801": {
+        "wagons": [
+            {"number": 1, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 2, "type": "coupe", "capacity": 4, "price_multiplier": 1.0, "description": "کوپه استاندارد ۴ نفره"},
+            {"number": 3, "type": "economy", "capacity": 6, "price_multiplier": 0.7, "description": "اقتصادی ۶ صندلی"}
+        ]
+    }
+}

@@ -1,0 +1,167 @@
+[
+    {
+        "code": "TR-101",
+        "name": "تهران-مشهد اکسپرس",
+        "type": "express",
+        "yata_code": "THR-MHD",
+        "origin_code": "THR",
+        "destination_code": "MHD",
+        "departure_time": "08:00",
+        "arrival_time": "14:30",
+        "base_price": 45.00
+    },
+    {
+        "code": "TR-102",
+        "name": "مشهد-تهران اکسپرس",
+        "type": "express",
+        "yata_code": "MHD-THR",
+        "origin_code": "MHD",
+        "destination_code": "THR",
+        "departure_time": "16:00",
+        "arrival_time": "22:30",
+        "base_price": 48.00
+    },
+    {
+        "code": "TR-202",
+        "name": "استانبول-آنکارا سریع‌السیر",
+        "type": "high_speed",
+        "yata_code": "IST-ANK",
+        "origin_code": "IST",
+        "destination_code": "ANK",
+        "departure_time": "09:30",
+        "arrival_time": "11:45",
+        "base_price": 35.00
+    },
+    {
+        "code": "TR-203",
+        "name": "آنکارا-استانبول سریع‌السیر",
+        "type": "high_speed",
+        "yata_code": "ANK-IST",
+        "origin_code": "ANK",
+        "destination_code": "IST",
+        "departure_time": "13:00",
+        "arrival_time": "15:15",
+        "base_price": 38.00
+    },
+    {
+        "code": "TR-305",
+        "name": "دبی-ابوظبی مسافربری",
+        "type": "commuter",
+        "yata_code": "DXB-AUH",
+        "origin_code": "DXB",
+        "destination_code": "AUH",
+        "departure_time": "07:15",
+        "arrival_time": "08:30",
+        "base_price": 20.00
+    },
+    {
+        "code": "TR-306",
+        "name": "ابوظبی-دبی مسافربری",
+        "type": "commuter",
+        "yata_code": "AUH-DXB",
+        "origin_code": "AUH",
+        "destination_code": "DXB",
+        "departure_time": "09:00",
+        "arrival_time": "10:15",
+        "base_price": 22.00
+    },
+    {
+        "code": "TR-401",
+        "name": "تهران-اصفهان اکسپرس",
+        "type": "express",
+        "yata_code": "THR-IFN",
+        "origin_code": "THR",
+        "destination_code": "IFN",
+        "departure_time": "10:00",
+        "arrival_time": "13:30",
+        "base_price": 32.00
+    },
+    {
+        "code": "TR-402",
+        "name": "اصفهان-تهران اکسپرس",
+        "type": "express",
+        "yata_code": "IFN-THR",
+        "origin_code": "IFN",
+        "destination_code": "THR",
+        "departure_time": "15:00",
+        "arrival_time": "18:30",
+        "base_price": 34.00
+    },
+    {
+        "code": "TR-501",
+        "name": "تهران-شیراز پارسیان",
+        "type": "overnight",
+        "yata_code": "THR-SYZ",
+        "origin_code": "THR",
+        "destination_code": "SYZ",
+        "departure_time": "20:00",
+        "arrival_time": "06:30",
+        "base_price": 55.00
+    },
+    {
+        "code": "TR-502",
+        "name": "شیراز-تهران پارسیان",
+        "type": "overnight",
+        "yata_code": "SYZ-THR",
+        "origin_code": "SYZ",
+        "destination_code": "THR",
+        "departure_time": "21:00",
+        "arrival_time": "07:30",
+        "base_price": 58.00
+    },
+    {
+        "code": "TR-601",
+        "name": "لندن-منچستر سریع",
+        "type": "high_speed",
+        "yata_code": "LHR-MAN",
+        "origin_code": "LHR",
+        "destination_code": "MAN",
+        "departure_time": "08:30",
+        "arrival_time": "10:15",
+        "base_price": 40.00
+    },
+    {
+        "code": "TR-602",
+        "name": "منچستر-لندن سریع",
+        "type": "high_speed",
+        "yata_code": "MAN-LHR",
+        "origin_code": "MAN",
+        "destination_code": "LHR",
+        "departure_time": "11:00",
+        "arrival_time": "12:45",
+        "base_price": 42.00
+    },
+    {
+        "code": "TR-701",
+        "name": "دوحه-دبی اکسپرس",
+        "type": "express",
+        "yata_code": "DOH-DXB",
+        "origin_code": "DOH",
+        "destination_code": "DXB",
+        "departure_time": "06:00",
+        "arrival_time": "08:00",
+        "base_price": 28.00
+    },
+    {
+        "code": "TR-702",
+        "name": "دبی-دوحه اکسپرس",
+        "type": "express",
+        "yata_code": "DXB-DOH",
+        "origin_code": "DXB",
+        "destination_code": "DOH",
+        "departure_time": "09:00",
+        "arrival_time": "11:00",
+        "base_price": 30.00
+    },
+    {
+        "code": "TR-801",
+        "name": "تهران-تبریز آذر",
+        "type": "express",
+        "yata_code": "THR-TBZ",
+        "origin_code": "THR",
+        "destination_code": "TBZ",
+        "departure_time": "12:00",
+        "arrival_time": "17:30",
+        "base_price": 38.00
+    }
+]
